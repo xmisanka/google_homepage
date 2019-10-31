@@ -1,0 +1,1 @@
+My first website as part of The Odin Project course. It project is to practice basic html and css skills. 
