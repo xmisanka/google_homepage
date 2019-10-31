@@ -1,1 +1,1 @@
-My first website as part of The Odin Project course. It project is to practice basic html and css skills. 
+My first website as part of The Odin Project course. The project is designed to practice basic html and css skills. The aim of the project is to rebuild the layout of the Google search website. 
